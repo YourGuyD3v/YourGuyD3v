@@ -18,7 +18,7 @@ My mission is simple: **make the world safe and secure** through code, research,
 ### 🧩 When I’m not building wild or learning, exploring new things, you’ll probably find me:
 - 🤝 Hanging out with my **frens**
 - 🧠 Playing a few rounds of **chess**
-- 🐾 Chilling with my **three cats**
+- 🐾 Chilling with my **cats**
 - 🎌 watching **Naruto** (yes, I still believe in *Dattebayo!*)
 
 ---
