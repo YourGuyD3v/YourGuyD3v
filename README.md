@@ -51,6 +51,6 @@ Right now, I’m building my **on-chain portfolio** to showcase what I can do an
 
 ### 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/YourGuyD3v)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)]([https://twitter.com/](https://x.com/YourGuyD3v))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/YourGuyD3v)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shurjeelkhan89@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/your-discord-id)
