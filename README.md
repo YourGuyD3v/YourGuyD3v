@@ -31,7 +31,7 @@ Right now, I’m building my **on-chain portfolio** to showcase what I can do an
 
 ### 🚀 Let’s Build Something Amazing Together  
 
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="500"/>
+<img src="https://github.com/YourGuyD3v/YourGuyD3v/blob/main/Loop%20Working%20GIF%20by%20Jimmy%20Simpson.gif" width="500"/>
 
 ---
 
@@ -54,3 +54,4 @@ Right now, I’m building my **on-chain portfolio** to showcase what I can do an
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/YourGuyD3v)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shurjeelkhan89@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/your-discord-id)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shurjeelkhan89)
