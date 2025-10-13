@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/YourGuyD3v/YourGuyD3v/blob/main/v0UwPWzC_400x400.jpg" width="400" style="border-radius: 50%;" alt="Shurjeel Khan Avatar"/>
-</p>
+</p> -->
 
 # 💫 About Me
 
