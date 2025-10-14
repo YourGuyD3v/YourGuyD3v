@@ -19,7 +19,7 @@ My mission is simple: **make the world safe and secure** through code, research,
 - 🤝 Hanging out with my **frens**
 - 🧠 Playing a few rounds of **chess**
 - 🐾 Chilling with my **cats**
-- 🎌 watching **Naruto** (yes, I still believe in *Dattebayo!*)
+- 🎌 watching **Anime** (yes, I still believe in *Dattebayo!*)
 
 ---
 
