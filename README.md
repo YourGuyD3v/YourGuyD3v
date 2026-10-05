@@ -10,7 +10,7 @@
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
-Hey there! I'm Shurjeel Khan — a builder who loves bringing ideas to life.
+A builder who loves bringing ideas to life.
 
 I started my engineering journey in Web3, building smart contracts and on-chain systems with Solidity and Foundry.
 
