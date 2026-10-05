@@ -6,7 +6,7 @@ Software Engineer building AI systems, agents and automation.
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">💫 About Me
 
-A builder who loves bringing ideas to life.
+Hey there! I'm Shurjeel Khan — a builder who loves bringing ideas to life.
 
 I started my engineering journey in Web3, building smart contracts and on-chain systems with Solidity and Foundry.
 
@@ -61,23 +61,31 @@ Want to see what I've actually been building?
 
 🤖 AI & Automation
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"n8n" (https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-"OpenAI" (https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+""Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" (https://www.python.org/)
+
+""n8n" (https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)" (https://n8n.io/)
+
+""OpenAI" (https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)" (https://openai.com/)
+
+""FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)" (https://fastapi.tiangolo.com/)
 
 ⚙️ Development
 
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-"REST API" (https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+""JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+""Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" (https://git-scm.com/)
+
+""Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" (https://www.linux.org/)
+
+""REST API" (https://img.shields.io/badge/REST_API-000000?style=for-the-badge)" (https://developer.mozilla.org/en-US/docs/Glossary/REST)
 
 ⛓️ Engineering Background
 
-"Solidity" (https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-"Ethereum" (https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-"Foundry" (https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
+""Solidity" (https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)" (https://soliditylang.org/)
+
+""Ethereum" (https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)" (https://ethereum.org/)
+
+""Foundry" (https://img.shields.io/badge/Foundry-000000?style=for-the-badge)" (https://book.getfoundry.sh/)
 
 ---
 
@@ -149,7 +157,7 @@ I still believe in Dattebayo! 👊
 
 ""X" (https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)" (https://x.com/YourGuyD3v)
 
- (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:shurjeelkhan89@gmail.com)
+""Email" (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:shurjeelkhan89@gmail.com)
 
 ---
 
