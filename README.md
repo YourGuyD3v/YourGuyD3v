@@ -154,10 +154,10 @@ I still believe in Dattebayo! 👊
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shurjeel-khan"><img alt="LinkedIn" src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/YourGuyD3v"><img alt="X" src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://github.com/YourGuyD3v"><img alt="GitHub" src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:shurjeelkhan89@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-%20-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shurjeel-khan"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://x.com/YourGuyD3v"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://github.com/YourGuyD3v"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="mailto:shurjeelkhan89@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/></a>
 </p>
 
 ---
