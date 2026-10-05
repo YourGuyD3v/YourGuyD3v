@@ -62,18 +62,16 @@ Want to see what I've actually been building?
 🤖 AI & Automation
 
 "Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"LLM Systems" (https://img.shields.io/badge/LLM_Systems-412991?style=for-the-badge)
-"AI Agents" (https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge)
 "n8n" (https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-"RAG" (https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+"OpenAI" (https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ⚙️ Development
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 "JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 "Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 "Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+"REST API" (https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
 ⛓️ Engineering Background
 
