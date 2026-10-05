@@ -1,10 +1,14 @@
-👋 Hey, I'm Shurjeel Khan
+# 👋 Hey, I'm Shurjeel Khan
 
-Software Engineer building AI systems, agents and automation.
+**Software Engineer building AI systems, agents and automation.**
 
-«Building systems that research, reason & act.»
+> *Building systems that research, reason & act.*
 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">💫 About Me
+---
+
+## 💫 About Me
+
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
 Hey there! I'm Shurjeel Khan — a builder who loves bringing ideas to life.
 
@@ -12,7 +16,7 @@ I started my engineering journey in Web3, building smart contracts and on-chain 
 
 What pulled me in?
 
-Building systems from ideas.
+**Building systems from ideas.**
 
 That curiosity eventually took me deeper into AI.
 
@@ -29,11 +33,13 @@ I'm particularly interested in the engineering side of AI:
 
 I don't just want AI to generate an answer.
 
-I want to build systems that can research, reason and act.
+I want to build systems that can **research, reason and act.**
+
+<br clear="right"/>
 
 ---
 
-🧠 My Approach
+## 🧠 My Approach
 
 I like building things, breaking them and figuring out why they broke.
 
@@ -41,7 +47,7 @@ When working with AI systems I care about more than just getting a successful de
 
 I think about:
 
-Logic → State → Context → Validation → Execution → Failure
+**Logic → State → Context → Validation → Execution → Failure**
 
 Because the interesting engineering problems usually start when things don't go according to plan.
 
@@ -49,47 +55,39 @@ I'm moving deeper into AI engineering and automation, while bringing the systems
 
 ---
 
-🚀 AI & Automation Portfolio
+## 🚀 AI & Automation Portfolio
 
 Want to see what I've actually been building?
 
-"→ Explore my AI & Automation Projects" (https://github.com/YourGuyD3v/Ai-x-Projects/tree/main/ai-automation)
+[→ Explore my AI & Automation Projects](https://github.com/YourGuyD3v/Ai-x-Projects/tree/main/ai-automation)
 
 ---
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
-🤖 AI & Automation
+### 🤖 AI & Automation
 
-""Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" (https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
-""n8n" (https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)" (https://n8n.io/)
+### ⚙️ Development
 
-""OpenAI" (https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)" (https://openai.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 
-""FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)" (https://fastapi.tiangolo.com/)
+### ⛓️ Engineering Background
 
-⚙️ Development
-
-""JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-""Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" (https://git-scm.com/)
-
-""Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" (https://www.linux.org/)
-
-""REST API" (https://img.shields.io/badge/REST_API-000000?style=for-the-badge)" (https://developer.mozilla.org/en-US/docs/Glossary/REST)
-
-⛓️ Engineering Background
-
-""Solidity" (https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)" (https://soliditylang.org/)
-
-""Ethereum" (https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)" (https://ethereum.org/)
-
-""Foundry" (https://img.shields.io/badge/Foundry-000000?style=for-the-badge)" (https://book.getfoundry.sh/)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
+[![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)](https://book.getfoundry.sh/)
 
 ---
 
-🌱 From Web3 to AI
+## 🌱 From Web3 to AI
 
 Before AI, I spent a significant part of my engineering journey around Web3 and blockchain.
 
@@ -101,13 +99,13 @@ The curiosity didn't.
 
 I still like systems where you have to think carefully about:
 
-logic → state → interfaces → constraints → failure → execution
+**logic → state → interfaces → constraints → failure → execution**
 
 Now I'm applying that mindset to AI.
 
 ---
 
-💡 My Take on AI
+## 💡 My Take on AI
 
 I don't see AI as my competitor.
 
@@ -119,15 +117,17 @@ But AI doesn't remove the need for engineering.
 
 If anything...
 
-it makes good engineering more important.
+**it makes good engineering more important.**
 
 ---
 
-🚀 Let's Build Something Amazing Together
+## 🚀 Let's Build Something Amazing Together
 
-<img src="https://github.com/YourGuyD3v/YourGuyD3v/blob/main/Loop%20Working%20GIF%20by%20Jimmy%20Simpson.gif" width="500"/>I'm interested in connecting with people building around:
+<img src="https://raw.githubusercontent.com/YourGuyD3v/YourGuyD3v/main/Loop%20Working%20GIF%20by%20Jimmy%20Simpson.gif" width="500"/>
 
-AI · Automation · Software Engineering · Agentic Systems · Emerging Technology
+I'm interested in connecting with people building around:
+
+**AI · Automation · Software Engineering · Agentic Systems · Emerging Technology**
 
 If you're building something interesting, experimenting with AI or trying to automate something painful...
 
@@ -135,7 +135,7 @@ Let's talk.
 
 ---
 
-🧩 When I'm Not Building
+## 🧩 When I'm Not Building
 
 You'll probably find me:
 
@@ -151,16 +151,14 @@ I still believe in Dattebayo! 👊
 
 ---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/shurjeel-khan)
-
-""X" (https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)" (https://x.com/YourGuyD3v)
-
-""Email" (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:shurjeelkhan89@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shurjeel-khan)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YourGuyD3v)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shurjeelkhan89@gmail.com)
 
 ---
 
-⚡ Build. Break. Learn. Iterate.
+### ⚡ Build. Break. Learn. Iterate.
 
-Dattebayo! 👊
+**Dattebayo! 👊**
