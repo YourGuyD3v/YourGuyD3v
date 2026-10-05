@@ -10,7 +10,7 @@
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
-A builder who loves bringing ideas to life.
+Hey there! I'm Shurjeel Khan — a builder who loves bringing ideas to life.
 
 I started my engineering journey in Web3, building smart contracts and on-chain systems with Solidity and Foundry.
 
@@ -153,9 +153,12 @@ I still believe in Dattebayo! 👊
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shurjeel-khan)
-[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YourGuyD3v)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shurjeelkhan89@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/shurjeel-khan"><img alt="LinkedIn" src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/YourGuyD3v"><img alt="X" src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://github.com/YourGuyD3v"><img alt="GitHub" src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:shurjeelkhan89@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-%20-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
