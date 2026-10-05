@@ -10,7 +10,7 @@
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
-Hey there! I'm Shurjeel Khan — a builder who loves bringing ideas to life.
+A builder who loves bringing ideas to life.
 
 I started my engineering journey in Web3, building smart contracts and on-chain systems with Solidity and Foundry.
 
@@ -156,8 +156,7 @@ I still believe in Dattebayo! 👊
 <p align="left">
 <a href="https://www.linkedin.com/in/shurjeel-khan"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://x.com/YourGuyD3v"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://github.com/YourGuyD3v"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="mailto:shurjeelkhan89@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/></a>
+<a  href="mailto:shurjeelkhan89@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/></a>
 </p>
 
 ---
