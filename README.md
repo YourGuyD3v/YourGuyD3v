@@ -59,7 +59,7 @@ I'm moving deeper into AI engineering and automation, while bringing the systems
 
 Want to see what I've actually been building?
 
-[→ Explore my AI & Automation Projects](https://github.com/YourGuyD3v/Ai-x-Projects/tree/main/ai-automation)
+[→ Explore my AI & Automation Projects](https://github.com/YourGuyD3v/Ai-x-Projects/tree/main)
 
 ---
 
@@ -162,5 +162,3 @@ I still believe in Dattebayo! 👊
 ---
 
 ### ⚡ Build. Break. Learn. Iterate.
-
-**Dattebayo! 👊**
